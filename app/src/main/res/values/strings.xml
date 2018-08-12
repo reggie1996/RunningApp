@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string name="distance">总路程：0 m</string>
+    <string name="speed">当前速度: 0 m/s</string>
+</resources>
